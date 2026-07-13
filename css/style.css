@@ -94,7 +94,10 @@ transform:translateY(0);
 
 }
 .logo {
-    width: 220px;
-    margin-bottom: 25px;
+    width: 180px;
+    max-width: 80%;
+    height: auto;
+    display: block;
+    margin: 0 auto 25px auto;
     animation: fadeIn 2s;
 }
